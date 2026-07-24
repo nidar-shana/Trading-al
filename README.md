@@ -1,1 +1,1 @@
-# Trading-al
+# Trading-algo
