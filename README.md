@@ -1,2 +1,2 @@
 # Trading-algo
-This is Trading Algo project
+This is a Trading Algo project
